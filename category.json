@@ -2,14 +2,14 @@
     {
         "category_id": 1,
         "category_name": "saloon",
-        "categoryimg": "",
+        "image url ": "https://ibb.co/kHYkGLq",
         "descrp": "get your hair cut from toprated saloon"
 
     },
     {
         "category_id": 2,
         "category_name": "Pest control",
-        "categoryimg": "",
+        "image url ": "https://ibb.co/N2kn3tg",
         "descrp": "pest control "
 
 
@@ -17,7 +17,7 @@
     {
         "category_id": 3,
         "category_name": "Home repairing",
-        "categoryimg": "",
+        "image url ": "https://ibb.co/KDhK8gt",
         "descrp": "Get fixed any house hold items."
     }
 ]
